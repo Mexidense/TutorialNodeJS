@@ -1,0 +1,10 @@
+{
+	"name": "MakingDevelopers",
+	"version": "0.0.1",
+	"author": "Salvador Briones",
+	"license": "MIT",
+	"dependencies": {
+		"font-awesome": "*",
+		"normalize-css": "*"
+	}
+}
